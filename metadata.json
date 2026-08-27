@@ -1,0 +1,6 @@
+{
+  "name": "Automation Test Case Overview Report",
+  "description": "Dynamic minimalistic automation test execution and overview report dashboard for TOSCA test logs and PDF analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
